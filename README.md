@@ -26,7 +26,7 @@ This project involves analyzing Zomato restaurant data to derive meaningful insi
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-capstone.git
+   git clone https://github.com/Diksha1296/Zomato-Analysis
    ```
 2. Install dependencies:
    ```bash
